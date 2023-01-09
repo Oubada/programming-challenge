@@ -1,7 +1,7 @@
 // custom properties
 :url-repo: https://github.com/Oubada/programming-challenge
 
-= BettercallPaul programming challenge 
+= BettercallPaul programming challenge Lösung
 :url-repo: https://github.com/bettercallpaul/programming-challenge
 
 This repository provides a solution for the BettercallPaul programming challenge.
